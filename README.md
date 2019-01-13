@@ -1,5 +1,5 @@
-Grading multiple-choice exams and reporting statistics
+Python Code of Package GrpString
 =========
 
-This is the code for grading multiple-choice general chemistry exams in 2015.
-The statistics of results are also reported.
+This is the Python version of the R package GrpString.
+
