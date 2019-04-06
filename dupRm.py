@@ -1,3 +1,4 @@
+### Remove adjacent repeated characters in each string of a list ###
 # use itertools
 
 import itertools
