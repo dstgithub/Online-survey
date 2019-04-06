@@ -1,3 +1,11 @@
+### Read string list, directly print (not return) pattern table with the six columns: ###
+### Pattern  Freq_grp Percent_grp  Length  Freq_str Percent_str ###
+
+# If none of the strings in the list has 3 or more characters, it prints the following message:
+# Empty DataFrame
+# Columns: [Pattern, Freq_grp, Percent_grp, Length, Freq_str, Percent_str]
+# Index: []
+
 import pandas as pd
 
 def commonPatt(string_list, low = 10):
