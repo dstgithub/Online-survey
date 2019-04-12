@@ -1,5 +1,5 @@
-Python Code of Package GrpString
+Code for Web Design
 =========
 
-This is the Python version of the R package GrpString.
+This includes HTML, CSS, JavaScprit, PHP and MySQL code for Web and database design as well as data query.
 
